@@ -1,0 +1,22 @@
+{
+    "sims": [
+        {
+            "iccid": "icicirandom",
+            "simType": "ESIM",
+            "mnoOrderNumber": "AS7hfd444",
+            "profiles": [
+                {
+                    "imsi": "310170imsirandom",
+                    "msisdn": "",
+                    "mno": "",
+                    "productionDate": "2019-03-31",
+                    "pin": "1111",
+                    "pin2": "2222",
+                    "puk": "23423",
+                    "puk2": "32353230",
+                    "isMigrated": "Yes"
+                }
+            ]
+        }
+    ]
+}

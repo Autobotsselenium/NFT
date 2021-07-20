@@ -1,0 +1,32 @@
+{
+  "tcus": [
+    
+    {
+      "imei": "015590000022486",
+      "type": "TCAM",
+      "countryVariant": "NA",
+      "productionDate": "14072020",
+      "vccPartNumber": "32319775 AA",
+      "hardwarePartNumber": "32319772 AA",
+      "hardwareSerialNumber": "16639",
+      "tcpuApplicationSWVersion": "32319659 AA",
+      "tcpuLocalConfigFileSWVersion": "32319662 AA",
+      "vcpuApplicationSWVersion": "32319659 AA",
+      "bleSWVersion": "",
+      "linuxKernelSWVersion": "32319661 AA",
+      "bleMACAddress": "F8:8A:5E:68:43:98",
+      "ethernetMACAddress": "20:AD:56:50:D5:1C",
+      "wifi1MACAddress": "20:AD:56:50:D5:1D",
+      "wifi2MACAddress": "20:AD:56:50:D5:1E",
+      "wifi3MACAddress": "20:AD:56:50:D5:1F",
+      "sim": {
+        "simType": "eUICC",
+        "eid": "89049032000001000000043922002236",	
+        "profiles": [{
+          "imsi": "310170848275169",
+          "iccid": "89011702278482760000"
+        }]
+      }
+    }
+	]
+	}
